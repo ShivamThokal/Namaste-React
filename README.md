@@ -1,0 +1,2 @@
+ Babel as a JavaScript transpiler that converts modern JavaScript and JSX into browser-compatible JavaScript.
+ Babel is likely used implicitly through the Parcel bundler, which handles transpilation automatically.
